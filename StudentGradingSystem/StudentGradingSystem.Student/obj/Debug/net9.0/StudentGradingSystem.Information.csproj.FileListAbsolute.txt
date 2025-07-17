@@ -1,0 +1,11 @@
+C:\Users\Beautiful promise\Desktop\cSharp\StudentGradingSystem\StudentGradingSystem.Student\bin\Debug\net9.0\StudentGradingSystem.Information.deps.json
+C:\Users\Beautiful promise\Desktop\cSharp\StudentGradingSystem\StudentGradingSystem.Student\bin\Debug\net9.0\StudentGradingSystem.Information.dll
+C:\Users\Beautiful promise\Desktop\cSharp\StudentGradingSystem\StudentGradingSystem.Student\bin\Debug\net9.0\StudentGradingSystem.Information.pdb
+C:\Users\Beautiful promise\Desktop\cSharp\StudentGradingSystem\StudentGradingSystem.Student\obj\Debug\net9.0\StudentGradingSystem.Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beautiful promise\Desktop\cSharp\StudentGradingSystem\StudentGradingSystem.Student\obj\Debug\net9.0\StudentGradingSystem.Information.AssemblyInfoInputs.cache
+C:\Users\Beautiful promise\Desktop\cSharp\StudentGradingSystem\StudentGradingSystem.Student\obj\Debug\net9.0\StudentGradingSystem.Information.AssemblyInfo.cs
+C:\Users\Beautiful promise\Desktop\cSharp\StudentGradingSystem\StudentGradingSystem.Student\obj\Debug\net9.0\StudentGradingSystem.Information.csproj.CoreCompileInputs.cache
+C:\Users\Beautiful promise\Desktop\cSharp\StudentGradingSystem\StudentGradingSystem.Student\obj\Debug\net9.0\StudentGradingSystem.Information.dll
+C:\Users\Beautiful promise\Desktop\cSharp\StudentGradingSystem\StudentGradingSystem.Student\obj\Debug\net9.0\refint\StudentGradingSystem.Information.dll
+C:\Users\Beautiful promise\Desktop\cSharp\StudentGradingSystem\StudentGradingSystem.Student\obj\Debug\net9.0\StudentGradingSystem.Information.pdb
+C:\Users\Beautiful promise\Desktop\cSharp\StudentGradingSystem\StudentGradingSystem.Student\obj\Debug\net9.0\ref\StudentGradingSystem.Information.dll

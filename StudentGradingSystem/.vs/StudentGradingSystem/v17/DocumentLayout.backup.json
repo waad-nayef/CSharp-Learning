@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Beautiful promise\\Desktop\\cSharp\\StudentGradingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{736EB647-BFAA-4A2E-8E31-89EFFE7036BD}|StudentGradingSystem.InputGrades\\StudentGradingSystem.InputGrades.csproj|c:\\users\\beautiful promise\\desktop\\csharp\\studentgradingsystem\\studentgradingsystem.inputgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736EB647-BFAA-4A2E-8E31-89EFFE7036BD}|StudentGradingSystem.InputGrades\\StudentGradingSystem.InputGrades.csproj|solutionrelative:studentgradingsystem.inputgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A63D72F-C1ED-44EC-8DD3-3E3D3C53273B}|StudentGradingSystem.Student\\StudentGradingSystem.Student.csproj|c:\\users\\beautiful promise\\desktop\\csharp\\studentgradingsystem\\studentgradingsystem.student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A63D72F-C1ED-44EC-8DD3-3E3D3C53273B}|StudentGradingSystem.Student\\StudentGradingSystem.Student.csproj|solutionrelative:studentgradingsystem.student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736EB647-BFAA-4A2E-8E31-89EFFE7036BD}|StudentGradingSystem.InputGrades\\StudentGradingSystem.InputGrades.csproj|c:\\users\\beautiful promise\\desktop\\csharp\\studentgradingsystem\\studentgradingsystem.inputgrades\\studentgradingsystem.inputgrades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{736EB647-BFAA-4A2E-8E31-89EFFE7036BD}|StudentGradingSystem.InputGrades\\StudentGradingSystem.InputGrades.csproj|solutionrelative:studentgradingsystem.inputgrades\\studentgradingsystem.inputgrades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentGradingSystem.InputGrades",
+              "DocumentMoniker": "C:\\Users\\Beautiful promise\\Desktop\\cSharp\\StudentGradingSystem\\StudentGradingSystem.InputGrades\\StudentGradingSystem.InputGrades.csproj",
+              "RelativeDocumentMoniker": "StudentGradingSystem.InputGrades\\StudentGradingSystem.InputGrades.csproj",
+              "ToolTip": "C:\\Users\\Beautiful promise\\Desktop\\cSharp\\StudentGradingSystem\\StudentGradingSystem.InputGrades\\StudentGradingSystem.InputGrades.csproj",
+              "RelativeToolTip": "StudentGradingSystem.InputGrades\\StudentGradingSystem.InputGrades.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T20:43:20.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Beautiful promise\\Desktop\\cSharp\\StudentGradingSystem\\StudentGradingSystem.Student\\Student.cs",
+              "RelativeDocumentMoniker": "StudentGradingSystem.Student\\Student.cs",
+              "ToolTip": "C:\\Users\\Beautiful promise\\Desktop\\cSharp\\StudentGradingSystem\\StudentGradingSystem.Student\\Student.cs",
+              "RelativeToolTip": "StudentGradingSystem.Student\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T20:41:21.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Beautiful promise\\Desktop\\cSharp\\StudentGradingSystem\\StudentGradingSystem.InputGrades\\Program.cs",
+              "RelativeDocumentMoniker": "StudentGradingSystem.InputGrades\\Program.cs",
+              "ToolTip": "C:\\Users\\Beautiful promise\\Desktop\\cSharp\\StudentGradingSystem\\StudentGradingSystem.InputGrades\\Program.cs*",
+              "RelativeToolTip": "StudentGradingSystem.InputGrades\\Program.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T20:40:04.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
